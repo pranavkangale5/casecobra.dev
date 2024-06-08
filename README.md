@@ -33,7 +33,8 @@ and copy the .env.example variables into a separate .env file, fill them out & a
 
 ## Acknowledgements
 
-- [Kinde](https://link.joshtriedcoding.com/kinde) for making this project possible
+- [Kinde](https://link.joshtriedcoding.com/kinde) for auth
+- [Uploadthing](https://uploadthing.com/) for Uploading images
 
 ## License
 
